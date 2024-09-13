@@ -22,7 +22,7 @@
 </head>
 <section class="grid-container">
     <div class="grid-item">
-        <img scr="puzzle1_Q.jpg"; alt="puzzle_piece"; height=auto/>
+        <img scr="puzzle1_Q.jpg"; alt="puzzle_piece"; height: auto;/>
     </div>
     <div class="grid-item">
         <img scr="puzzle1_G.jpg" alt="puzzle_piece" height="auto"/>
