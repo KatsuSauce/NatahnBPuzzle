@@ -70,7 +70,7 @@
         <img scr="puzzle1_K.jpg" alt="puzzle_piece" height="auto"/>
     </div>
   </section>
-   <div class="grid-item">
+   <div class="grid-item" display:none;>
        <img scr="puzzle1_D.jpg" alt="puzzle_piece" height="auto"/>
    </div>
   </html>
