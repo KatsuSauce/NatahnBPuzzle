@@ -1,4 +1,73 @@
 <!DOCTYPE html>
   <html lang="en-US">
-    
+<style>
+    section.grid-container {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-row: repeat(4, 1fr);
+        background-color: purple;
+        padding: 5px;
+    }
+    section div.grid-item {
+        background-color: rgba(255, 255, 255, 0.8);
+        height: 75px;
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 5px;
+        font-size: 1.2em;
+        text-align: center;
+    }
+</style>
+<head>
+    <h1>Nathan's Attempt at the butterfly puzzle</h1>
+</head>
+<section class="grid-container">
+    <div class="grid-item">
+        <img scr="" alt="" height="auto"/>
+    </div>
+    <div class="grid-item">
+        <img scr="" alt="" height="auto"/>
+    </div>
+    <div class="grid-item">
+        <img scr="" alt="" height="auto"/>
+    </div>
+    <div class="grid-item">
+        <img scr="" alt="" height="auto"/>
+    </div>
+    <div class="grid-item">
+        
+    </div>
+    <div class="grid-item">
+        6
+    </div>
+    <div class="grid-item">
+        7
+    </div>
+    <div class="grid-item">
+        8
+    </div>
+    <div class="grid-item">
+        9
+    </div>
+    <div class="grid-item">
+        10
+    </div>
+    <div class="grid-item">
+        11
+    </div>
+    <div class="grid-item">
+        12
+    </div>
+    <div class="grid-item">
+        13
+    </div>
+    <div class="grid-item">
+        14
+    </div>
+    <div class="grid-item">
+        15
+    </div>
+    <div class="grid-item">
+        
+    </div>
+</section>
   </html>
