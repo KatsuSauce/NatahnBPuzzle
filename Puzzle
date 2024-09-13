@@ -22,52 +22,55 @@
 </head>
 <section class="grid-container">
     <div class="grid-item">
-        <img scr="" alt="" height="auto"/>
+        <img scr="puzzle1_Q.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        <img scr="" alt="" height="auto"/>
+        <img scr="puzzle1_G.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        <img scr="" alt="" height="auto"/>
+        <img scr="puzzle1_A.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        <img scr="" alt="" height="auto"/>
+        <img scr="puzzle1_J.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        
+        <img scr="puzzle1_M.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        6
+        <img scr="puzzle1_P.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        7
+        <img scr="puzzle1_B.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        8
+        <img scr="puzzle1_H.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        9
+        <img scr="puzzle1_O.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        10
+        <img scr="puzzle1_E.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        11
+        <img scr="puzzle1_N.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        12
+        <img scr="puzzle1_C.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        13
+        <img scr="puzzle1_I.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        14
+        <img scr="puzzle1_F.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        15
+        <img scr="puzzle1_L.jpg" alt="puzzle_piece" height="auto"/>
     </div>
     <div class="grid-item">
-        
+        <img scr="puzzle1_K.jpg" alt="puzzle_piece" height="auto"/>
     </div>
-</section>
+  </section>
+   <div class="grid-item">
+       <img scr="puzzle1_D.jpg" alt="puzzle_piece" height="auto"/>
+   </div>
   </html>
